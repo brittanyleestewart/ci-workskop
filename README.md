@@ -1,3 +1,3 @@
 # ci-workskop
 
-![Status_Badge](https://github.com/brittanyleestewart/ci-workshop/actions/workflows/sample.yml/badge.svg)
+![sample-badge-status](https://github.com/brittanyleestewart/ci-workskop/actions/workflows/sample.yml/badge.svg)
